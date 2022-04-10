@@ -11,3 +11,5 @@ We can still add more things to this and make this much more effective but this 
 
 # Project-Link
 https://todo-prashantrai.herokuapp.com/
+
+https://prashant-rai7.github.io/Todo/
